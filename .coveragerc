@@ -1,0 +1,7 @@
+[run]
+source = sidebar_menu/
+omit=
+    sidebar_menu/apps.py
+
+[report]
+omit = sidebar_menu/*/apps.py
