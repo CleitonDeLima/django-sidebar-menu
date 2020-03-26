@@ -5,8 +5,8 @@ description = "Create sidebar menu easily"
 authors = ["Cleiton Lima <cleiton.limapin@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/CleitonDeLima/django-easy-tenants"
-homepage = "https://github.com/CleitonDeLima/django-easy-tenants"
+repository = "https://github.com/CleitonDeLima/django-sidebar-menu"
+homepage = "https://github.com/CleitonDeLima/django-sidebar-menu"
 classifiers = [
     'Environment :: Web Environment',
     'Framework :: Django',
